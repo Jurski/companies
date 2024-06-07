@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "9b8062f8f9a9ef25f92d44ca3c366758",
+    "packages": [
+        {
+            "name": "initphp/cli-table",
+            "version": "1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/InitPHP/CLITable.git",
+                "reference": "ef577a47410fec9dc121f467e2f9a4b467ff32de"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/InitPHP/CLITable/zipball/ef577a47410fec9dc121f467e2f9a4b467ff32de",
+                "reference": "ef577a47410fec9dc121f467e2f9a4b467ff32de",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.2"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "InitPHP\\CLITable\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Muhammet ŞAFAK",
+                    "email": "info@muhammetsafak.com.tr",
+                    "homepage": "https://www.muhammetsafak.com.tr",
+                    "role": "Developer"
+                }
+            ],
+            "description": "PHP CLI Table Generator",
+            "support": {
+                "issues": "https://github.com/InitPHP/CLITable/issues",
+                "source": "https://github.com/InitPHP/CLITable/tree/1.0"
+            },
+            "time": "2022-08-26T21:36:35+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}

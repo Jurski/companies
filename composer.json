@@ -1,0 +1,12 @@
+{
+    "name": "juris/companies",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Juris"
+        }
+    ],
+    "require": {
+        "initphp/cli-table": "^1.0"
+    }
+}
